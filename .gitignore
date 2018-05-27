@@ -1,14 +1,4 @@
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 268ed0b940cefabfc10f5170d7fa4920393ff412
-
-# Ruby
-.rake_test_cache
-.rvmrc
-.rbenv-version
 
 # Emacs
 *~
